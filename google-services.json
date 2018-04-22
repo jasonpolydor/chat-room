@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "968833733819",
+    "firebase_url": "https://chat-room-6a19e.firebaseio.com",
+    "project_id": "chat-room-6a19e",
+    "storage_bucket": "chat-room-6a19e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968833733819:android:992e609cae7bdd6f",
+        "android_client_info": {
+          "package_name": "com.morichat.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968833733819-akh7vjs6dsrqmr08q5ejngme0d81on62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0oMqvZtN2uflLv-u8w3AruMIn5Oybbm8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
